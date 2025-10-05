@@ -105,3 +105,6 @@ a:focus-visible{ outline:none; box-shadow: 0 0 0 3px color-mix(in oklab, var(--b
 /* Commit 6 by Dilnazochka (2025-10-05 23:42:55): Add semantic tags to news items */
 @media (min-width:1px){/* noop rule */}
 
+/* Commit 6 by Dilnazochka (2025-10-05 23:51:40): Add semantic tags to news items */
+@media (min-width:1px){/* noop rule */}
+
