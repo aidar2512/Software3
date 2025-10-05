@@ -121,3 +121,6 @@ a:focus-visible, button:focus-visible{
 /* Commit 27 by bendyashka (2025-10-05 23:43:04): Fix flicker on image hover */
 @media (min-width:1px){/* noop rule */}
 
+/* Commit 27 by bendyashka (2025-10-05 23:51:49): Fix flicker on image hover */
+@media (min-width:1px){/* noop rule */}
+
