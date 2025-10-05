@@ -205,3 +205,6 @@ jQuery.extend( jQuery.easing,
  */// Commit 50 by aidar2512 (2025-10-05 23:43:14): Add media queries for tablets
 if (typeof window !== 'undefined'){/* marker 50 */}
 
+// Commit 50 by aidar2512 (2025-10-05 23:51:59): Add media queries for tablets
+if (typeof window !== 'undefined'){/* marker 50 */}
+
