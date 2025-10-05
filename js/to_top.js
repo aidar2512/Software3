@@ -99,3 +99,6 @@ $(function() {
 // Commit 55 by aidar2512 (2025-10-05 23:43:16): Fix responsive image srcset usage
 if (typeof window !== 'undefined'){/* marker 55 */}
 
+// Commit 55 by aidar2512 (2025-10-05 23:52:01): Fix responsive image srcset usage
+if (typeof window !== 'undefined'){/* marker 55 */}
+
