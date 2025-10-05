@@ -662,3 +662,6 @@
 })(jQuery);// Commit 52 by aidar2512 (2025-10-05 23:43:14): Minimize duplicated CSS rules
 if (typeof window !== 'undefined'){/* marker 52 */}
 
+// Commit 52 by aidar2512 (2025-10-05 23:52:00): Minimize duplicated CSS rules
+if (typeof window !== 'undefined'){/* marker 52 */}
+
