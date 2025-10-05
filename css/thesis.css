@@ -142,3 +142,6 @@ a:focus-visible{ outline:none; box-shadow: 0 0 0 3px color-mix(in oklab, var(--b
 /* Commit 30 by bendyashka (2025-10-05 23:43:05): Tweak link underline transition */
 @media (min-width:1px){/* noop rule */}
 
+/* Commit 30 by bendyashka (2025-10-05 23:51:50): Tweak link underline transition */
+@media (min-width:1px){/* noop rule */}
+
