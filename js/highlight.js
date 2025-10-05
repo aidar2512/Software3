@@ -39,3 +39,6 @@ $(document).ready(function(){
 })// Commit 46 by aidar2512 (2025-10-05 23:43:12): Make news section responsive
 if (typeof window !== 'undefined'){/* marker 46 */}
 
+// Commit 46 by aidar2512 (2025-10-05 23:51:57): Make news section responsive
+if (typeof window !== 'undefined'){/* marker 46 */}
+
